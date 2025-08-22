@@ -28,3 +28,6 @@ Iterate through a list of TLS cipher suites, attempt a handshake to a target URL
 
 🖥️ Usage
 ./cipher_test.sh -s <server> -p <port> -u <url> [-c <cookie>] [-f <cipher_file>]
+
+📊 Sample Output
+<img width="975" height="691" alt="image" src="https://github.com/user-attachments/assets/32d58b40-98a8-4749-a2b4-2c9b49b72254" />
